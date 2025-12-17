@@ -1,6 +1,0 @@
-{
-  "buildCommand": "cd ecommerce-site && npm run build",
-  "outputDirectory": "ecommerce-site/dist",
-  "framework": "vite",
-  "rootDirectory": "ecommerce-site"
-}
